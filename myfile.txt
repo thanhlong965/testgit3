@@ -2,4 +2,4 @@
 add: Đăng ký thay đổi trong index
 pull: Lấy nội dung của remote repository
 add : thêm ở issue3
-add : thêm ở master
+add : thêm ở maste
